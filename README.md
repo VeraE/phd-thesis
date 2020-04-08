@@ -5,7 +5,7 @@ This repository contains supplementary material for the PhD thesis "Wave Field S
 * **Matlab**:\
 To run the scripts that produce the figures, you need Matlab. The code in this repository has been tested with Matlab R2015a.
 * **Sound Field Synthesis Toolbox**:\
-The scripts also use the Matlab version of the <a rel="license" href="http://www.sfstoolbox.org">Sound Field Synthesis Toolbox</a>, <a rel="license" href="http://doi.org/10.5281/zenodo.2597212">release 2.5.0</a>.
+The scripts use the Matlab version of the <a rel="license" href="http://www.sfstoolbox.org">Sound Field Synthesis Toolbox</a>, <a rel="license" href="http://doi.org/10.5281/zenodo.2597212">release 2.5.0</a>.
 * **Spatially Oriented Format for Acoustics (SOFA)**:\
 Some data needed to produce the figures is given in the format <a rel="license" href="http://www.sofaconventions.org">SOFA</a>. To read this data, you need the <a rel="license" href="http://sourceforge.net/projects/sofacoustics/files/">SOFA API for Matlab/Octave</a>. The code has been tested with release 1.0.4.
 
