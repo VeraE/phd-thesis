@@ -1,5 +1,5 @@
 # Wave Field Synthesis in a listening room, PhD thesis
-This repository contains additional material for the PhD thesis "Wave Field Synthesis in a listening room" by Vera Erbes.
+This repository contains additional material for the PhD thesis "Wave Field Synthesis in a listening room" by Vera Erbes, sorted by chapter.
 
 ## Software requirements
 * **Matlab**:\
